@@ -4,11 +4,9 @@
     <span>Andrey Pontes</span>
 </h1>
 
-<p align="justify">Analista de Redes de Salvador-BA, Brasil, morando em Divinópolis-MG, empenhado em me tornar programador e aprender mais sobre esse mundo. 🚀 
+<p align="justify">Analista de Redes de Salvador-BA, Brasil, morando em Divinópolis-MG, empenhado em se tornar programador e aprender mais sobre esse mundo. 🚀 
 <br>
- Amo o mundo da tecnologia, mas também tiro tempo para me conectar apenas com a natureza, sempre que possível. Uma das minhas maiores paixões é sair por aí pilotando</a>.</p>
-
-
+ Apaixonado por tecnologia, natureza e motociclismo</a>.</p> 
 
 <h3 align="left">GitHub Stats</h3>
 
